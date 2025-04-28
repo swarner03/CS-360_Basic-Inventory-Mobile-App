@@ -1,4 +1,5 @@
 # CS-360
+
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
 I developed an inventory management system designed to simplify the tracking and management of inventory. It addresses the need for an organized and straightforward method to monitor items and quantities, as well as to receive notifications when stock levels are low. The app allows users to add, edit, and delete items and provides alerts when quantities fall below a predetermined threshold. The objective was to create an efficient tool for individuals or businesses to manage inventory effectively, without the complications of more complex systems.
